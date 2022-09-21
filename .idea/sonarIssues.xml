@@ -113,6 +113,51 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../preparation/CoroutinesRoom/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../preparation/CoroutinesRoom/app/src/main/java/com/devtides/coroutinesroom/model/LoginState.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../preparation/CoroutinesRoom/app/src/main/java/com/devtides/coroutinesroom/model/User.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../preparation/CoroutinesRoom/app/src/main/java/com/devtides/coroutinesroom/view/LoginFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../preparation/CoroutinesRoom/app/src/main/java/com/devtides/coroutinesroom/view/MainFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../preparation/CoroutinesRoom/app/src/main/java/com/devtides/coroutinesroom/view/SignupFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../preparation/CoroutinesRoom/app/src/main/java/com/devtides/coroutinesroom/viewmodel/LoginViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../preparation/CoroutinesRoom/app/src/main/java/com/devtides/coroutinesroom/viewmodel/SignupViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../preparation/CoroutinesRoom/app/src/main/res/layout/fragment_login.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
